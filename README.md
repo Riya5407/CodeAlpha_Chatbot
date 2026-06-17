@@ -79,12 +79,6 @@ Through this project, I practiced:
 * Handling user input
 * Building a simple conversational application
 
-## 📸 Screenshot
-
-```markdown id="80d4q5"
-![Chatbot Output](Screentshot.png)
-```
-
 ## 📜 Internship Task
 
 This project was developed as part of the Python Programming Internship at CodeAlpha.
